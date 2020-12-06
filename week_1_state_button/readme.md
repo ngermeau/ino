@@ -1,9 +1,9 @@
 # week 1 state button  
 
-## Project 
+## Assignement 
 When pushing on the button the led lights on, when pushing back the led lights off
 
-## Learned 
+## To Learn
 
 - Basic electronic circuits   
 - Led needs resistor to avoid burning  
