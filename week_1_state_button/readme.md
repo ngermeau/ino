@@ -1,6 +1,6 @@
 # week 1 state button  
 
-## Assignement 
+## Assignment 
 When pushing on the button the led lights on, when pushing back the led lights off
 
 ## To Learn
