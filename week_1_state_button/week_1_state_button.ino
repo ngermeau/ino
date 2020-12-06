@@ -12,7 +12,7 @@ void loop() {
   long new_state = digitalRead(button);
   Serial.println(new_state);
 
-  if (new_state == LOW){
+  if (new_state == HIGH ){
     state = !state;     
   }
   digitalWrite(led, state);
