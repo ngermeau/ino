@@ -1,4 +1,4 @@
-# week 1 state button  
+# Potentiometer Leds 
 
 ## Assignment 
 Create a circuit which : Read the analog input of a potentiometer and ligh on/off multiple leds based on the range of the potentiometer output value. 

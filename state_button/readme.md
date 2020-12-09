@@ -1,4 +1,4 @@
-# week 1 state button  
+# State Button  
 
 ## Assignment 
 Create a circuit which : when pushing a button one led lights on, when pushing back the led lights off.
