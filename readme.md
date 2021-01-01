@@ -6,37 +6,37 @@ Experimenting various components provided by elegoo super start kit.
 ## List of components 
 
 [x] 1pcs UNO R3 Controller Board   
-[ ] 1pcs LCD1602 Module ( with pin header)
-[x] 1pcs Breadboard Expansion Board
-[x] 1pcs Power Supply Module 
-[ ] 1pcs Joystick Module
-[ ] 1pcs IR Receiver
-[ ] 1pcs Servo Motor (SG90)
-[ ] 1pcs Stepper Motor
-[ ] 1pcs ULN2003 Stepper Motor Driver Board
-[ ] 1pcs Ultrasonic Sensor
-[ ] 1pcs DHT11 Temperature and Humidity Module
-[ ] 1pcs 9V Battery with DC
-[x] 1pcs 65 Jumper Wire
-[x] 1pcs USB Cable
-[ ] 1pcs Active Buzzer
-[ ] 1pcs Passive Buzzer
-[x] 1pcs Potentiometer
-[ ] 1pcs 5V Relay
-[ ] 1pcs Breadboard
-[ ] 1pcs Remote
-[ ] 1pcs Tilt Switch 5pcs Button (small)
-[ ] 1pcs 1 digit 7-segment Display
-[ ] 1pcs 4 digit 7-segment Display
-[x] 5pcs Yellow LED
-[x] 5pcs Blue LED
-[x] 5pcs Green LED
-[x] 5pcs Red LED
-[ ] 1pcs RGB LED
-[ ] 2pcs Photo resistor
-[ ] 1pcs Thermistor
-[ ] 2pcs Diode Rectifier (1N4007)
-[ ] 2pcs NPN Transistor (PN2222)
-[ ] 1pcs IC 74HC595
-[ ] 120pcs Resistor
-[ ] 10pcs Female-to-male DuPont Wire.
+[ ] 1pcs LCD1602 Module ( with pin header)  
+[x] 1pcs Breadboard Expansion Board   
+[x] 1pcs Power Supply Module     
+[ ] 1pcs Joystick Module    
+[ ] 1pcs IR Receiver    
+[ ] 1pcs Servo Motor (SG90)   
+[ ] 1pcs Stepper Motor    
+[ ] 1pcs ULN2003 Stepper Motor Driver Board    
+[ ] 1pcs Ultrasonic Sensor    
+[ ] 1pcs DHT11 Temperature and Humidity Module   
+[ ] 1pcs 9V Battery with DC    
+[x] 1pcs 65 Jumper Wire   
+[x] 1pcs USB Cable   
+[ ] 1pcs Active Buzzer   
+[ ] 1pcs Passive Buzzer    
+[x] 1pcs Potentiometer    
+[ ] 1pcs 5V Relay   
+[ ] 1pcs Breadboard   
+[ ] 1pcs Remote   
+[ ] 1pcs Tilt Switch 5pcs Button (small)   
+[ ] 1pcs 1 digit 7-segment Display   
+[ ] 1pcs 4 digit 7-segment Display   
+[x] 5pcs Yellow LED   
+[x] 5pcs Blue LED   
+[x] 5pcs Green LED   
+[x] 5pcs Red LED   
+[ ] 1pcs RGB LED   
+[ ] 2pcs Photo resistor   
+[ ] 1pcs Thermistor   
+[ ] 2pcs Diode Rectifier (1N4007)   
+[ ] 2pcs NPN Transistor (PN2222)   
+[ ] 1pcs IC 74HC595   
+[ ] 12pcs Resistor   
+[ ] 10pcs Female-to-male DuPont Wire.   
