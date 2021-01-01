@@ -5,7 +5,7 @@ Experimenting various components provided by elegoo super start kit.
 
 ## List of components 
 
-[x] 1pcs UNO R3 Controller Board
+[x] 1pcs UNO R3 Controller Board   
 [ ] 1pcs LCD1602 Module ( with pin header)
 [x] 1pcs Breadboard Expansion Board
 [x] 1pcs Power Supply Module 
