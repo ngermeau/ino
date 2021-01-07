@@ -13,7 +13,7 @@ long DIGIT_TWO = 11;
 long DIGIT_THREE = 12;
 long DIGIT_FOUR = 13;
 
-long FREQU = 150;
+long FREQU = 1;
 
 void setup() {
   Serial.begin(9600);
