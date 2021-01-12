@@ -19,13 +19,13 @@ Experimenting various components provided by elegoo super start kit.
 [x] 1pcs 9V Battery with DC    
 [x] 1pcs 65 Jumper Wire   
 [x] 1pcs USB Cable   
-[ ] 1pcs Active Buzzer   
-[ ] 1pcs Passive Buzzer    
+[x] 1pcs Active Buzzer   
+[x] 1pcs Passive Buzzer    
 [x] 1pcs Potentiometer    
 [ ] 1pcs 5V Relay   
 [x] 1pcs Breadboard   
 [ ] 1pcs Remote   
-[ ] 1pcs Tilt Switch 5pcs Button (small)   
+[x] 1pcs Tilt Switch 5pcs Button (small)   
 [x] 1pcs 4 digit 7-segment Display   
 [x] 5pcs Yellow LED   
 [x] 5pcs Blue LED   
