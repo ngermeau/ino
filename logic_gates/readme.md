@@ -10,6 +10,6 @@ Create circuits which : are Inverter gate, AND gate, OR gate. Learn also about S
 - How to create logical gates (Inverter, AND, OR...) [here](https://www.youtube.com/watch?v=sTu3LwpF6XI)
 - What is an SR-Latch [here](https://www.youtube.com/watch?v=KM0DdEaY5sY)
 - What is a D-Latch [here](https://www.youtube.com/watch?v=peCh_859q7Q) 
-- What is a D-Flip-flop[here](https://www.youtube.com/watch?v=YW-_GkUguMM)
+- What is a D-Flip-flop [here](https://www.youtube.com/watch?v=YW-_GkUguMM)
 - How to use easyEDA
 

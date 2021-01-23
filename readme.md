@@ -1,6 +1,6 @@
 # Elegoo super start kit experiment
 
-Experimenting various components provided by elegoo super start kit.   
+Exeerimenting various components provided by elegoo super start kit.   
 [x] Means used in at least one of the projects.
 
 ## List of components 
@@ -35,7 +35,7 @@ Experimenting various components provided by elegoo super start kit.
 [ ] 2pcs Photo resistor   
 [ ] 1pcs Thermistor   
 [ ] 2pcs Diode Rectifier (1N4007)   
-[ ] 2pcs NPN Transistor (PN2222)   
+[x] 2pcs NPN Transistor (PN2222)   
 [ ] 1pcs IC 74HC595   
-[ ] 12pcs Resistor   
+[x] 120pcs Resistor   
 [ ] 10pcs Female-to-male DuPont Wire.   
