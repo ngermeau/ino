@@ -16,7 +16,6 @@ void setup()
 void loop()   
 {
   if (irrecv.decode(&results)) 
-
   {
     Serial.println(results.value, HEX);  
     if (results.value == 0xFFA857) {
