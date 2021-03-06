@@ -1,22 +1,30 @@
 #include "IRremote.h"
 
-int data = 9; 
-int rclock = 8; 
-int srclock = 7; 
+int ser = 9;        // data (next entry 0 or 1)
+int rclock = 8;     // latch (send data of shift register to output)
+int srclock = 7;    // shift clock 
 
+byte leds = 0;
 void setup()  
 {
   Serial.begin(9600);
-  pinMode(data,OUTPUT);     //next entry is a 0 or a 1
-  pinMode(rclock,OUTPUT);   //push data register to output
-  pinMode(srclock,OUTPUT);  //shift the register
+  pinMode(ser,OUTPUT);     
+  pinMode(rclock,OUTPUT);  
+  pinMode(srclock,OUTPUT); 
 }
 
+void updateShiftRegister(){
+  digitalWrite(rclock, LOW);
+  shiftOut(ser, srclock, MSBFIRST, leds);
+  digitalWrite(rclock, HIGH);
+}
 void loop()   
 {
-digitalWrite(data, HIGH);
-digitalWrite(rclock, HIGH);
-delay(1000);
-digitalWrite(srclock, HIGH);
-delay(1000);
+leds = 0;
+delay(100);
+for (int i = 0; i< 8; i++){
+  bitSet(leds,i);
+  updateShiftRegister();
+  delay(100);
+}
 }
