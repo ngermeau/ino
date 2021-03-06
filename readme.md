@@ -10,7 +10,7 @@ Exeerimenting various components provided by elegoo super start kit.
 [x] 1pcs Breadboard Expansion Board   
 [x] 1pcs Power Supply Module     
 [ ] 1pcs Joystick Module    
-[ ] 1pcs IR Receiver    
+[x] 1pcs IR Receiver    
 [ ] 1pcs Servo Motor (SG90)   
 [ ] 1pcs Stepper Motor    
 [ ] 1pcs ULN2003 Stepper Motor Driver Board    
@@ -24,7 +24,7 @@ Exeerimenting various components provided by elegoo super start kit.
 [x] 1pcs Potentiometer    
 [ ] 1pcs 5V Relay   
 [x] 1pcs Breadboard   
-[ ] 1pcs Remote   
+[x] 1pcs Remote   
 [x] 1pcs Tilt Switch 5pcs Button (small)   
 [x] 1pcs 4 digit 7-segment Display   
 [x] 5pcs Yellow LED   
@@ -36,6 +36,6 @@ Exeerimenting various components provided by elegoo super start kit.
 [ ] 1pcs Thermistor   
 [ ] 2pcs Diode Rectifier (1N4007)   
 [x] 2pcs NPN Transistor (PN2222)   
-[ ] 1pcs IC 74HC595   
+[x] 1pcs IC 74HC595   
 [x] 120pcs Resistor   
 [ ] 10pcs Female-to-male DuPont Wire.   
