@@ -1,4 +1,4 @@
-# State Button  
+# Tilt Buzzer  
 
 ## Assignment 
 Create a circuit which : when the arduino is tilted on the side generate a noize with an active buzzer and a passive buzzer
