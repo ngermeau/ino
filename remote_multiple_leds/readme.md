@@ -1,4 +1,4 @@
-# State Button  
+# Remote multiple Leds  
 
 ## Assignment 
 Create a circuit which : use a infrared remote control and infrared receiver to lights multiple leds on an off (use a shift register to control the leds)
