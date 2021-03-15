@@ -1,4 +1,4 @@
-# State Button  
+# LCD Display  
 
 ## Assignment 
 Create a circuit which : display a string on a lcd 
