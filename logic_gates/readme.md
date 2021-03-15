@@ -1,4 +1,4 @@
-# State Button  
+# Logic Gate  
 
 ## Assignment 
 Create circuits which : are Inverter gate, AND gate, OR gate. Learn also about SR-Latch, D-Latch and Flip-Flop.
