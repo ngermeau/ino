@@ -1,4 +1,4 @@
-# Potentiometer Leds 
+# 7 Segment Digits
 
 ## Assignment 
 Create a circuit which : Read display 1234 on a 4 digits 7 segment display
